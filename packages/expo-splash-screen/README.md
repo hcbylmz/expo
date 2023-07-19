@@ -514,7 +514,7 @@ To achieve fully-native splash screen behavior, `expo-splash-screen` needs to be
 3. [Configure `res/drawable/splashscreen.xml`](#-configure-resdrawablesplashscreenxml)
 4. [Configure `res/values/styles.xml`](#-configure-resvaluesstylesxml)
 5. [Configure `AndroidManifest.xml`](#-configure-androidmanifestxml)
-6. [(<em>optional</em>) Customzine `resizeMode`](#-optional-customize-resizemode)
+6. [(<em>optional</em>) Customize `resizeMode`](#-optional-customize-resizemode)
 7. [(<em>optional</em>) Enable dark mode](#-optional-enable-dark-mode-1)
 8. [(<em>optional</em>) Customize StatusBar](#-customize-statusbar-1)
 
